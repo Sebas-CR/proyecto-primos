@@ -32,3 +32,7 @@ Barra Verde (Optimizado): Muestra el tiempo récord que tomó el código despué
 
 ## 4. Conclusiones
 La gran lección de esta tarea práctica es que la fuerza bruta no sirve de nada sin matemáticas. Al usar **NumPy**, evitamos que Python tenga que leer y procesar cada número por separado lo cual es muy lento en bucles grandes, asi logramos que haga las operaciones en bloque. Combinando esto con el atajo de la raíz cuadrada, convertimos una tarea que tardaba segundos en algo casi instantáneo.
+
+
+
+***Link del repositorio:*** https://github.com/Sebas-CR/proyecto-primos.git
