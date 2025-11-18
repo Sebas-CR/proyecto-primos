@@ -1,0 +1,5 @@
+# Ignora la carpeta cache de Python
+__pycache__/
+
+# Ignora los archivos de profiling generados localmente (opcional)
+*.txt
